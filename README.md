@@ -2,7 +2,7 @@
 
 我的第一个公网页面，托管在 GitHub Pages 上。
 
-网址：https://czxilu262626.github.io/lasting-site/
+网址：czxilu262626.github.io/lastking-site/
 
 ## 更新步骤
 
